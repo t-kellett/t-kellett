@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tom
 - 👀 I’m interested in furthering my understanding of software development.
-- 🌱 I’m currently learning C#.NET, while using ir professionally.
+- 🌱 I’m currently coding enterprise B2B software C#.NET professionally.
 - 📫 You can contact me on linkedin here: https://www.linkedin.com/in/tom-kellett-714837b2/
 
 <!---
